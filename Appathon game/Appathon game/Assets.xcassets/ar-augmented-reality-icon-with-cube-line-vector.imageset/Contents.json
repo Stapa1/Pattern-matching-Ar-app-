@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ar-augmented-reality-icon-with-cube-line-vector.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "ar-augmented-reality-icon-with-cube-line-vector@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "ar-augmented-reality-icon-with-cube-line-vector@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
